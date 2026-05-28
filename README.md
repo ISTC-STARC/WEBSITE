@@ -1,6 +1,6 @@
 <html>
 <html lang="en">
-<head><title>STARC — Space Technology and Research Community</title>
+<head><title>STARC  Space Technology and Research Community</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700;900&family=Share+Tech+Mono&family=Exo+2:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -111,7 +111,7 @@
   <p class="hero-tag">// IIIT DELHI · SPACE TECHNOLOGY AND RESEARCH COMMUNITY</p>
   <h1 class="hero-title">STARC</h1>
   <p class="hero-sub">ENGINEERING TOMORROW'S ROCKETS TODAY</p>
-  <p class="hero-desc">India's next-generation student rocketry team from IIIT Delhi — designing, simulating, and launching high-power rockets while pushing the boundaries of aerospace research.</p>
+  <p class="hero-desc">India's next-generation student rocketry team from IIIT Delhi  designing, simulating, and launching high-power rockets while pushing the boundaries of aerospace research.</p>
   <div class="hero-cta">
     <a href="vajra.html" class="btn btn-primary">Our Rockets</a>
     <a href="team.html" class="btn btn-outline">Meet the Team</a>
@@ -207,7 +207,7 @@
       <a href="team.html">Team</a>
       <a href="mailto:istc.starc.iiitd@gmail.com">istc.starc.iiitd@gmail.com</a>
     </div>
-    <div class="footer-copy">© 2025 STARC — IIIT Delhi · Built for the stars.</div>
+    <div class="footer-copy">© 2025 STARC  IIIT Delhi · Built for the stars.</div>
   </div>
 </footer>
 <script>
